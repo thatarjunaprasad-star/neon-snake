@@ -1,0 +1,6 @@
+# build artifacts
+*.exe
+*.o
+*.obj
+
+# compiler/toolchain dumps not needed by the build
